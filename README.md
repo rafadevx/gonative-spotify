@@ -10,7 +10,7 @@
 
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/rafadevx/gonative-spotify">
 
-  <img alt="GitHub" src="https://img.shields.io/github/license/rafadevx/gonative-spotify">
+
 </p>
 
 <p align="center">
@@ -20,13 +20,13 @@
 </p>
 
 
-<p align="center">
-  <img alt="Screen with album list" src="./screens/screen1.png" width="450px">
-  <img alt="Screen with album details" src="./screens/screen2.png" width="450px">
+<p align="center" width="100%">
+  <img alt="Screen with album list" src="./screens/screen1.png" width="40%">
+  <img alt="Screen with album details" src="./screens/screen2.png" width="40%">
 </p>
 
 <p align="center">
-  <img alt="Screen playing song" src="./screens/screen3.png" width="450px">
+  <img alt="Screen playing song" src="./screens/screen3.png" width="40%">
 </p>
 
 ## :rocket: Technologies
